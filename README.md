@@ -64,5 +64,3 @@
 
 ---
 
-
-Do you want me to create that version too?
